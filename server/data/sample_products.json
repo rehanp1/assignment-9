@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life.",
+    "category": "electronics",
+    "price": 199.99,
+    "specifications": {
+      "brand": "SoundMaster",
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "30 hours",
+      "weight": "250g"
+    }
+  },
+  {
+    "name": "Smartphone X",
+    "description": "Latest flagship smartphone with 6.5-inch OLED display and triple camera system.",
+    "category": "electronics",
+    "price": 899.99,
+    "specifications": {
+      "brand": "TechGiant",
+      "screenSize": "6.5 inches",
+      "storage": "128GB",
+      "ram": "8GB"
+    }
+  },
+  {
+    "name": "Cotton T-Shirt",
+    "description": "Comfortable 100% cotton t-shirt available in multiple colors.",
+    "category": "clothing",
+    "price": 24.99,
+    "specifications": {
+      "material": "100% cotton",
+      "sizes": "S, M, L, XL",
+      "colors": "Black, White, Blue"
+    }
+  }
+]
